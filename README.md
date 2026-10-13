@@ -44,10 +44,10 @@ Generating realistic tabular data with controlled censoring to support reproduci
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-HPC-4B8BBE?style=flat)
 
-## Currently learning
+## Currently Learning
 
-- AWS CloudOps Engineer Associate
-- Kubernetes / CKA
+- **Google Cloud Professional Machine Learning Engineer**
+- **AI agents** with LangChain, LangGraph, and LangSmith
 
 ## GitHub activity
 
